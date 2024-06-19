@@ -1,3 +1,8 @@
-/.vscode/*
-/client/node_modules/
-/server/.env
+# Ignore .vscode settings
+.vscode/
+
+# Ignore node_modules directory in client
+client/node_modules/
+
+# Ignore .env file in server
+server/.env

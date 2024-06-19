@@ -1,5 +1,5 @@
 # Project env
-.vscode
+/.vscode
 
 # Frontend
 /client/node_modules

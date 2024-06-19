@@ -1,0 +1,8 @@
+# Project env
+.vscode
+
+# Frontend
+/client/node_modules
+
+# Backend
+/server/.env

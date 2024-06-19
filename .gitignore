@@ -1,8 +1,8 @@
-# Project env
-/.vscode
+# Ignore .vscode settings
+.vscode/
 
-# Frontend
-/client/node_modules
+# Ignore node_modules directory in client
+client/node_modules/
 
-# Backend
-/server/.env
+# Ignore .env file in server
+server/.env
